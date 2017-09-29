@@ -1,3 +1,3 @@
 # Exercise_04
 ***
-$y=x^2$
+![](http://latex.codecogs.com/gif.latex?y=x^2)
